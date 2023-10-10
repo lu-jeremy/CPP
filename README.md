@@ -1,3 +1,4 @@
-# CPP
+# C++: Beginner Steps
 
-Mostly game development.
+## Unofficial repository for learning C++
+* Game development with SDL
